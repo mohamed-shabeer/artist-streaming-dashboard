@@ -4,6 +4,8 @@
 
 ![Dashboard](dashboard.png)
 
+![Dashboard](dashboard2.png)
+
 ## Overview
 Interactive dashboard to track weekly and cumulative music streaming performance over time.
 
