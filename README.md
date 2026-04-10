@@ -1,5 +1,9 @@
 # Artist Streaming Dashboard
 
+## Demo
+
+![Dashboard](dashboard.png)
+
 ## Overview
 Interactive dashboard to track weekly and cumulative music streaming performance over time.
 
