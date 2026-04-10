@@ -1,8 +1,5 @@
 # Artist Streaming Dashboard
 
-## Demo
-![Dashboard](https://raw.githubusercontent.com/mohamed-shabeer/artist-streaming-dashboard/main/artist-tracker-dashboard.html)
-
 ## Overview
 Interactive dashboard to track weekly and cumulative music streaming performance over time.
 
